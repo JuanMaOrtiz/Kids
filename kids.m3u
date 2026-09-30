@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6254598f5083f800076d8563" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Bob Esponja
+#EXTINF:-1 tvg-id="6254598f5083f800076d8563" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/logo.png?fit=pad&fm=png&h=300&w=300" group-title="Kids",Bob Esponja
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:-1 tvg-id="629a066860ef810008267b70" tvg-name="Detective Conan" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Anime",Detective Conan
+#EXTINF:-1 tvg-id="629a066860ef810008267b70" tvg-name="Detective Conan" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/logo.png?fit=pad&fm=png&h=300&w=300" group-title="Anime",Detective Conan
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-name="El Chavo" tvg-logo="https://i.imgur.com/uG2ZJz8.png" group-title="Series",El Chavo
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="66c79221b1a34600087e264d" tvg-name="Hey Arnold" tvg-logo="https://images.pluto.tv/channels/66c79221b1a34600087e264d/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Hey Arnold
+#EXTINF:-1 tvg-id="66c79221b1a34600087e264d" tvg-name="Hey Arnold" tvg-logo="https://images.pluto.tv/channels/66c79221b1a34600087e264d/logo.png?fit=pad&fm=png&h=300&w=300" group-title="Kids",Hey Arnold
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
-#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" tvg-name="Nickelodeon Classic" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Nickelodeon Classic 1
+#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" tvg-name="Nickelodeon Classic" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/logo.png?fit=pad&fm=png&h=300&w=300" group-title="Kids",Nickelodeon Classic 1
 https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
-#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" tvg-name="Nickelodeon Classic" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Nickelodeon Classic 2
+#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" tvg-name="Nickelodeon Classic" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/logo.png?fit=pad&fm=png&h=300&w=300" group-title="Kids",Nickelodeon Classic 2
 https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 tvg-id="5ea7215005d66d0007e8128a" tvg-name="Rugrats TV" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Rugrats TV
+#EXTINF:-1 tvg-id="5ea7215005d66d0007e8128a" tvg-name="Rugrats TV" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/logo.png?fit=pad&fm=png&h=300&w=300" group-title="Kids",Rugrats TV
 https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
-#EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Las Tortugas Ninja
+#EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/logo.png?fit=pad&fm=png&h=300&w=300" group-title="Kids",Las Tortugas Ninja
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8

@@ -3,7 +3,7 @@
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-id="629a066860ef810008267b70" tvg-name="Detective Conan" tvg-logo="https://i.redd.it/mpnux821fcgf1.jpg" group-title="Anime",Detective Conan
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
-#EXTINF:-1 tvg-name="El Chavo" tvg-logo="https://image.tmdb.org/t/p/original/68yHuyqiCykShwYXeA3dKjI5tYz.jpg" group-title="Series",El Chavo
+#EXTINF:-1 tvg-id="el-chavo" tvg-name="El Chavo" tvg-logo="https://image.tmdb.org/t/p/original/68yHuyqiCykShwYXeA3dKjI5tYz.jpg" group-title="Series",El Chavo
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="66c79221b1a34600087e264d" tvg-name="Hey Arnold" tvg-logo="https://image.tmdb.org/t/p/original/fEWUQ99i4zGx4OnzV0HPbvNnEdH.jpg" group-title="Kids",Hey Arnold
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
